@@ -1,0 +1,11 @@
+.btn-burgundy {
+  background-color: #f5ede1;
+  color: #6b1e2e;
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.btn-burgundy:hover {
+  background-color: white;
+}
